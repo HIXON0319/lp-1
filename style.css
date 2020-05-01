@@ -85,8 +85,6 @@ nav{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	background-image:url(img/mainvisual.png);
-	background-size: cover;
 }
 .nav-inner img{
   width: 200px;
